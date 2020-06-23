@@ -1,6 +1,6 @@
 # react-books
 
-This application is designed to interact with the Google Books API. You can search for books you'd like to read and then add them to the list to view later. Then after you've read them you can delete them from the list!
+This application is designed to explore using Mongoose to interact with MongoDB. You can add books you'd like to read to the list to view later. Then after you've read them you can delete them from the list!
 
 ## Getting Started
 
@@ -39,7 +39,6 @@ You should have a browser window open with the locally run application.
 * [Express](https://www.npmjs.com/package/express) - Used to manage HTTP requests and deliver content.
 * [Mongoose](https://www.npmjs.com/package/mongoose) - A package used to work with MongoDB.
 * [Axios](https://www.npmjs.com/package/axios) - A package used to interact with the RESTful API proxy server through HTTP requests.
-* [Fullcalandar](https://www.npmjs.com/package/fullcalendar) - A package used to incorporate a powerful pre-built calendar.
 
 
 ## Authors
